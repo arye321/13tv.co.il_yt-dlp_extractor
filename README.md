@@ -12,11 +12,11 @@ to use this put `13tv.py` in folder (if the folders are missing create them)
 
 
 
-**Linux**
+**Linux:**
 
 `~/yt-dlp-plugins/13tv/yt_dlp_plugins/extractor/`
 
-**Mac**
+**Mac:**
 
 
 `${XDG_CONFIG_HOME}/yt-dlp/plugins/13tv/yt_dlp_plugins/extractor/`
