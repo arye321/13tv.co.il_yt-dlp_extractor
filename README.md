@@ -20,3 +20,8 @@ to use this put `13tv.py` in folder (if the folders are missing create them)
 
 
 `${XDG_CONFIG_HOME}/yt-dlp/plugins/13tv/yt_dlp_plugins/extractor/`
+
+
+then you can use yt-dlp:
+
+`yt-dlp https://13tv.co.il/item/yummies/games-of-chef/season-06/episodes/cwhdj-903418467`
